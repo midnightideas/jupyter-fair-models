@@ -1,4 +1,4 @@
-# Jupyter FAIR quantification risk models
+# Jupyter FAIR quantitative risk models
 
 ## Reference
 
